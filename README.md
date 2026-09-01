@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me
 - 2nd year Software Engineering student at Tampere University of Applied Sciences
 - Currently learning Git, databases, full stack webdev, data structures & algorithms, AWS.
-- Currently working on making a Discord bot.
+- Currently working on making a Discord bot and making a VALORANT tracker clone.
 - Reach me through: wallyallan345@gmail.com
 
 ## Projects
