@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+- 2nd year Software Engineering student at Tampere University of Applied Sciences
+- Currently learning Git, databases, full stack webdev, data structures & algorithms, AWS.
+- Currently working on making a Discord bot.
+- Reach me through: wallyallan345@gmail.com
+
+##Projects
+- [git-learning-log](https://gothub.com/walthough/git-learning-log) - Git project tracking a learning log
