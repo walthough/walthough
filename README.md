@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - Currently working on making a Discord bot.
 - Reach me through: wallyallan345@gmail.com
 
-##Projects
+## Projects
 - [git-learning-log](https://gothub.com/walthough/git-learning-log) - Git project tracking a learning log
